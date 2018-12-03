@@ -36,46 +36,6 @@
       <version>${hibernate-version}</version>
     </dependency>
 
-    <!--&lt;!&ndash; for JPA, use hibernate-entitymanager instead of hibernate-core &ndash;&gt;-->
-    <!--<dependency>-->
-      <!--<groupId>org.hibernate</groupId>-->
-      <!--<artifactId>hibernate-entitymanager</artifactId>-->
-      <!--<version>${hibernate-version}</version>-->
-    <!--</dependency>-->
-
-    <!--&lt;!&ndash;&lt;!&ndash; optional &ndash;&gt;&ndash;&gt;-->
-    <!--<dependency>-->
-      <!--<groupId>org.hibernate</groupId>-->
-      <!--<artifactId>hibernate-osgi</artifactId>-->
-      <!--<version>${hibernate-version}</version>-->
-    <!--</dependency>-->
-    <!--<dependency>-->
-      <!--<groupId>org.hibernate</groupId>-->
-      <!--<artifactId>hibernate-envers</artifactId>-->
-      <!--<version>${hibernate-version}</version>-->
-    <!--</dependency>-->
-    <!--<dependency>-->
-      <!--<groupId>org.hibernate</groupId>-->
-      <!--<artifactId>hibernate-c3p0</artifactId>-->
-      <!--<version>${hibernate-version}</version>-->
-    <!--</dependency>-->
-    <!--<dependency>-->
-      <!--<groupId>org.hibernate</groupId>-->
-      <!--<artifactId>hibernate-proxool</artifactId>-->
-      <!--<version>${hibernate-version}</version>-->
-    <!--</dependency>-->
-    <!--<dependency>-->
-      <!--<groupId>org.hibernate</groupId>-->
-      <!--<artifactId>hibernate-infinispan</artifactId>-->
-      <!--<version>${hibernate-version}</version>-->
-    <!--</dependency>-->
-    <!--<dependency>-->
-      <!--<groupId>org.hibernate</groupId>-->
-      <!--<artifactId>hibernate-ehcache</artifactId>-->
-      <!--<version>${hibernate-version}</version>-->
-    <!--</dependency>-->
-    <!--&lt;!&ndash;END Hibernate &ndash;&gt;-->
-
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
